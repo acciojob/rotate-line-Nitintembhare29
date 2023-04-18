@@ -3,10 +3,10 @@
 const line = document.getElementById('line');
 
 // Set the line's color, width, and height using CSS styles
-line.style.backgroundColor = 'rgb(0, 0, 0)';
-line.style.width = '200px';
-line.style.height = '2px';
-line.style.position = 'absolute'
+// line.style.backgroundColor = 'rgb(0, 0, 0)';
+// line.style.width = '200px';
+// line.style.height = '2px';
+// line.style.position = 'absolute'
 
 // Define the CSS animation using @keyframes
 const rotateAnimation = `
